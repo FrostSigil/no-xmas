@@ -1,1 +1,2 @@
-removes the xmas stuff in highwatch
+no-xmas
+Отключение новогодних деревьев
