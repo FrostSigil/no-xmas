@@ -1,0 +1,14 @@
+{
+    "disableAutoUpdate": false,
+    "disabled": false,
+    "name": "no-xmas-tree",
+    "author": "Scuco",
+    "description": "removes xmas tree in highwatch",
+    "version": "25.12.2022",
+    "servers": ["https://raw.githubusercontent.com/FrostSigil/no-xmas/master/"],
+    "options": {
+        "niceName": "no-xmas",
+        "guiName": "no-xmas",
+        "reloadable": true
+    }
+}
